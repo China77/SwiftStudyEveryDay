@@ -1,6 +1,6 @@
 //
 //  Swift003_ObjectsAndClasses.swift
-//  SwiftStudyDemo
+//  SwiftStudyEveryDay
 //
 //  Created by YUCHUAN on 14/07/2017.
 //  Copyright © 2017 YUCHUAN. All rights reserved.

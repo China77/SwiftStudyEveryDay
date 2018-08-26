@@ -1,6 +1,6 @@
 //
 //  Swift007_ Generics.swift
-//  SwiftStudyDemo
+//  SwiftStudyEveryDay
 //
 //  Created by YUCHUAN on 20/07/2017.
 //  Copyright © 2017 YUCHUAN. All rights reserved.

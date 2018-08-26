@@ -1,6 +1,6 @@
 //
-//  Swift006ErrorHanding.swift
-//  SwiftStudyDemo
+//  Swift006_ErrorHanding.swift
+//  SwiftStudyEveryDay
 //
 //  Created by YUCHUAN on 20/07/2017.
 //  Copyright © 2017 YUCHUAN. All rights reserved.

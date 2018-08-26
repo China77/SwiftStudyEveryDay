@@ -1,6 +1,6 @@
 //
 //  Swift001_SimpleValues.swift
-//  SwiftDemo
+//  SwiftStudyEveryDay
 //
 //  Created by YUCHUAN on 16/06/2017.
 //  Copyright © 2017 YUCHUAN. All rights reserved.

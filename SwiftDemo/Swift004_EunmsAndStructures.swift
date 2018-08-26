@@ -1,6 +1,6 @@
 //
-//  Swift003_EunmsAndStructures.swift
-//  SwiftStudyDemo
+//  Swift004_EunmsAndStructures.swift
+//  SwiftStudyEveryDay
 //
 //  Created by YUCHUAN on 20/07/2017.
 //  Copyright © 2017 YUCHUAN. All rights reserved.
