@@ -14,6 +14,40 @@
 		132C90CE1F20AB9100D61577 /* Swift007_Generics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 132C90CD1F20AB9100D61577 /* Swift007_Generics.swift */; };
 		134115CB1EF388E80004295E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 134115CA1EF388E80004295E /* main.swift */; };
 		134115D21EF38DF00004295E /* Swift001_SimpleValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 134115D11EF38DF00004295E /* Swift001_SimpleValues.swift */; };
+		137AEFC02132874800C80BD1 /* Siwft03_StringsAndCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFBF2132874800C80BD1 /* Siwft03_StringsAndCharacters.swift */; };
+		137AEFC32132878E00C80BD1 /* Swift04_CollectionTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFC22132878E00C80BD1 /* Swift04_CollectionTypes.swift */; };
+		137AEFC5213287A000C80BD1 /* Swift05_ControlFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFC4213287A000C80BD1 /* Swift05_ControlFlow.swift */; };
+		137AEFC7213287B500C80BD1 /* Swift06_Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFC6213287B500C80BD1 /* Swift06_Functions.swift */; };
+		137AEFC9213287C400C80BD1 /* Swift07_Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFC8213287C400C80BD1 /* Swift07_Closures.swift */; };
+		137AEFCB213287D900C80BD1 /* Swift08_Enumerations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFCA213287D900C80BD1 /* Swift08_Enumerations.swift */; };
+		137AEFCD213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFCC213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift */; };
+		137AEFCF2132880C00C80BD1 /* Swift10_Properties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFCE2132880C00C80BD1 /* Swift10_Properties.swift */; };
+		137AEFD12132881D00C80BD1 /* Swift11_Methods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFD02132881D00C80BD1 /* Swift11_Methods.swift */; };
+		137AEFD32132882F00C80BD1 /* Swift12_Subscripts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFD22132882F00C80BD1 /* Swift12_Subscripts.swift */; };
+		137AEFD52132884D00C80BD1 /* Swift13_Inheritance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFD42132884D00C80BD1 /* Swift13_Inheritance.swift */; };
+		137AEFD72132887300C80BD1 /* Swift14_Initalization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFD62132887300C80BD1 /* Swift14_Initalization.swift */; };
+		137AEFD92132888400C80BD1 /* Swift15_Deinitialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFD82132888400C80BD1 /* Swift15_Deinitialization.swift */; };
+		137AEFDB2132889B00C80BD1 /* Swift16_OptionalChaining.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFDA2132889B00C80BD1 /* Swift16_OptionalChaining.swift */; };
+		137AEFDD213288EC00C80BD1 /* Swift17_ErrorHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFDC213288EC00C80BD1 /* Swift17_ErrorHandling.swift */; };
+		137AEFDF213288FF00C80BD1 /* Swift18_TypeCasting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFDE213288FF00C80BD1 /* Swift18_TypeCasting.swift */; };
+		137AEFE12132890E00C80BD1 /* Swift19_NestedTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFE02132890E00C80BD1 /* Swift19_NestedTypes.swift */; };
+		137AEFE32132892600C80BD1 /* Swift20_Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFE22132892600C80BD1 /* Swift20_Extensions.swift */; };
+		137AEFE52132893700C80BD1 /* Swift21_Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFE42132893700C80BD1 /* Swift21_Protocols.swift */; };
+		137AEFE72132896B00C80BD1 /* Swift22_Generics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFE62132896B00C80BD1 /* Swift22_Generics.swift */; };
+		137AEFE92132898100C80BD1 /* Swift23_AutomaticReferenceCounting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFE82132898100C80BD1 /* Swift23_AutomaticReferenceCounting.swift */; };
+		137AEFEB2132899400C80BD1 /* Swift24_MemorySafety.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFEA2132899400C80BD1 /* Swift24_MemorySafety.swift */; };
+		137AEFED213289A600C80BD1 /* Swift25_AccessControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFEC213289A600C80BD1 /* Swift25_AccessControl.swift */; };
+		137AEFEF213289BD00C80BD1 /* Swift26_AdvancedOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFEE213289BD00C80BD1 /* Swift26_AdvancedOperators.swift */; };
+		137AEFF221328A2800C80BD1 /* Swift01_About.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFF121328A2800C80BD1 /* Swift01_About.swift */; };
+		137AEFF421328A3A00C80BD1 /* Swift02_LexicalStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFF321328A3A00C80BD1 /* Swift02_LexicalStructure.swift */; };
+		137AEFF621328A4C00C80BD1 /* Swift03_Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFF521328A4C00C80BD1 /* Swift03_Types.swift */; };
+		137AEFF821328A5900C80BD1 /* Swift04_Exressions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFF721328A5900C80BD1 /* Swift04_Exressions.swift */; };
+		137AEFFA21328A6B00C80BD1 /* Swift05_Statements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFF921328A6B00C80BD1 /* Swift05_Statements.swift */; };
+		137AEFFC21328A7900C80BD1 /* Swift06_Declarations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFFB21328A7900C80BD1 /* Swift06_Declarations.swift */; };
+		137AEFFE21328A8800C80BD1 /* Swift07_Attributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFFD21328A8800C80BD1 /* Swift07_Attributes.swift */; };
+		137AF00021328A9D00C80BD1 /* Swift08_Patterns.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFFF21328A9D00C80BD1 /* Swift08_Patterns.swift */; };
+		137AF00221328AC200C80BD1 /* Swift09_GenericParametersAndArguments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AF00121328AC200C80BD1 /* Swift09_GenericParametersAndArguments.swift */; };
+		137AF00421328AD700C80BD1 /* Swift10_SummaryOfGrammar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AF00321328AD700C80BD1 /* Swift10_SummaryOfGrammar.swift */; };
 		13C1A9671F69880B00137A0A /* Swift01_Basics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13C1A9661F69880A00137A0A /* Swift01_Basics.swift */; };
 		13DD35121F18640400A8F558 /* Swift002_FunctionAndClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13DD35111F18640400A8F558 /* Swift002_FunctionAndClosures.swift */; };
 		13DD35141F18D39100A8F558 /* Swift003_ObjectsAndClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13DD35131F18D39100A8F558 /* Swift003_ObjectsAndClasses.swift */; };
@@ -40,6 +74,40 @@
 		134115C71EF388E80004295E /* SwiftStudyEveryDay */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftStudyEveryDay; sourceTree = BUILT_PRODUCTS_DIR; };
 		134115CA1EF388E80004295E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		134115D11EF38DF00004295E /* Swift001_SimpleValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swift001_SimpleValues.swift; sourceTree = "<group>"; };
+		137AEFBF2132874800C80BD1 /* Siwft03_StringsAndCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Siwft03_StringsAndCharacters.swift; sourceTree = "<group>"; };
+		137AEFC22132878E00C80BD1 /* Swift04_CollectionTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift04_CollectionTypes.swift; sourceTree = "<group>"; };
+		137AEFC4213287A000C80BD1 /* Swift05_ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift05_ControlFlow.swift; sourceTree = "<group>"; };
+		137AEFC6213287B500C80BD1 /* Swift06_Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift06_Functions.swift; sourceTree = "<group>"; };
+		137AEFC8213287C400C80BD1 /* Swift07_Closures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift07_Closures.swift; sourceTree = "<group>"; };
+		137AEFCA213287D900C80BD1 /* Swift08_Enumerations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift08_Enumerations.swift; sourceTree = "<group>"; };
+		137AEFCC213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift09_StrucuresAndClasses.swift; sourceTree = "<group>"; };
+		137AEFCE2132880C00C80BD1 /* Swift10_Properties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift10_Properties.swift; sourceTree = "<group>"; };
+		137AEFD02132881D00C80BD1 /* Swift11_Methods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift11_Methods.swift; sourceTree = "<group>"; };
+		137AEFD22132882F00C80BD1 /* Swift12_Subscripts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift12_Subscripts.swift; sourceTree = "<group>"; };
+		137AEFD42132884D00C80BD1 /* Swift13_Inheritance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift13_Inheritance.swift; sourceTree = "<group>"; };
+		137AEFD62132887300C80BD1 /* Swift14_Initalization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift14_Initalization.swift; sourceTree = "<group>"; };
+		137AEFD82132888400C80BD1 /* Swift15_Deinitialization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift15_Deinitialization.swift; sourceTree = "<group>"; };
+		137AEFDA2132889B00C80BD1 /* Swift16_OptionalChaining.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift16_OptionalChaining.swift; sourceTree = "<group>"; };
+		137AEFDC213288EC00C80BD1 /* Swift17_ErrorHandling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift17_ErrorHandling.swift; sourceTree = "<group>"; };
+		137AEFDE213288FF00C80BD1 /* Swift18_TypeCasting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift18_TypeCasting.swift; sourceTree = "<group>"; };
+		137AEFE02132890E00C80BD1 /* Swift19_NestedTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift19_NestedTypes.swift; sourceTree = "<group>"; };
+		137AEFE22132892600C80BD1 /* Swift20_Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift20_Extensions.swift; sourceTree = "<group>"; };
+		137AEFE42132893700C80BD1 /* Swift21_Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift21_Protocols.swift; sourceTree = "<group>"; };
+		137AEFE62132896B00C80BD1 /* Swift22_Generics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift22_Generics.swift; sourceTree = "<group>"; };
+		137AEFE82132898100C80BD1 /* Swift23_AutomaticReferenceCounting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift23_AutomaticReferenceCounting.swift; sourceTree = "<group>"; };
+		137AEFEA2132899400C80BD1 /* Swift24_MemorySafety.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift24_MemorySafety.swift; sourceTree = "<group>"; };
+		137AEFEC213289A600C80BD1 /* Swift25_AccessControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift25_AccessControl.swift; sourceTree = "<group>"; };
+		137AEFEE213289BD00C80BD1 /* Swift26_AdvancedOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift26_AdvancedOperators.swift; sourceTree = "<group>"; };
+		137AEFF121328A2800C80BD1 /* Swift01_About.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift01_About.swift; sourceTree = "<group>"; };
+		137AEFF321328A3A00C80BD1 /* Swift02_LexicalStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift02_LexicalStructure.swift; sourceTree = "<group>"; };
+		137AEFF521328A4C00C80BD1 /* Swift03_Types.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift03_Types.swift; sourceTree = "<group>"; };
+		137AEFF721328A5900C80BD1 /* Swift04_Exressions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift04_Exressions.swift; sourceTree = "<group>"; };
+		137AEFF921328A6B00C80BD1 /* Swift05_Statements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift05_Statements.swift; sourceTree = "<group>"; };
+		137AEFFB21328A7900C80BD1 /* Swift06_Declarations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift06_Declarations.swift; sourceTree = "<group>"; };
+		137AEFFD21328A8800C80BD1 /* Swift07_Attributes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift07_Attributes.swift; sourceTree = "<group>"; };
+		137AEFFF21328A9D00C80BD1 /* Swift08_Patterns.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift08_Patterns.swift; sourceTree = "<group>"; };
+		137AF00121328AC200C80BD1 /* Swift09_GenericParametersAndArguments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift09_GenericParametersAndArguments.swift; sourceTree = "<group>"; };
+		137AF00321328AD700C80BD1 /* Swift10_SummaryOfGrammar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift10_SummaryOfGrammar.swift; sourceTree = "<group>"; };
 		13C1A9661F69880A00137A0A /* Swift01_Basics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swift01_Basics.swift; sourceTree = "<group>"; };
 		13DD35111F18640400A8F558 /* Swift002_FunctionAndClosures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swift002_FunctionAndClosures.swift; sourceTree = "<group>"; };
 		13DD35131F18D39100A8F558 /* Swift003_ObjectsAndClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swift003_ObjectsAndClasses.swift; sourceTree = "<group>"; };
@@ -56,29 +124,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		132C90CF1F20B0C300D61577 /* SwiftTour */ = {
-			isa = PBXGroup;
-			children = (
-				134115D11EF38DF00004295E /* Swift001_SimpleValues.swift */,
-				13DD35111F18640400A8F558 /* Swift002_FunctionAndClosures.swift */,
-				13DD35131F18D39100A8F558 /* Swift003_ObjectsAndClasses.swift */,
-				132C90C71F2090D000D61577 /* Swift004_EunmsAndStructures.swift */,
-				132C90C91F209C0500D61577 /* Swift005_ProtocolsAndExtensions.swift */,
-				132C90CB1F20A3D500D61577 /* Swift006_ErrorHanding.swift */,
-				132C90CD1F20AB9100D61577 /* Swift007_Generics.swift */,
-			);
-			name = SwiftTour;
-			sourceTree = "<group>";
-		};
-		132C90D01F20B0DF00D61577 /* SiwftGuid */ = {
-			isa = PBXGroup;
-			children = (
-				13C1A9661F69880A00137A0A /* Swift01_Basics.swift */,
-				1309FCD6212EBE25008E69B9 /* Swift02_BasicOperators.swift */,
-			);
-			name = SiwftGuid;
-			sourceTree = "<group>";
-		};
 		134115BE1EF388E80004295E = {
 			isa = PBXGroup;
 			children = (
@@ -98,12 +143,77 @@
 		134115C91EF388E80004295E /* SwiftStudyEveryDay */ = {
 			isa = PBXGroup;
 			children = (
-				132C90D01F20B0DF00D61577 /* SiwftGuid */,
-				132C90CF1F20B0C300D61577 /* SwiftTour */,
+				137AF00821328B5B00C80BD1 /* Swift1_Tour */,
+				137AF00721328B2400C80BD1 /* Siwft2_LanguageGuid */,
+				137AF00621328B0400C80BD1 /* Swift3_LanguageReference */,
 				134115CA1EF388E80004295E /* main.swift */,
 			);
 			name = SwiftStudyEveryDay;
 			path = SwiftDemo;
+			sourceTree = "<group>";
+		};
+		137AF00621328B0400C80BD1 /* Swift3_LanguageReference */ = {
+			isa = PBXGroup;
+			children = (
+				137AEFF121328A2800C80BD1 /* Swift01_About.swift */,
+				137AEFF321328A3A00C80BD1 /* Swift02_LexicalStructure.swift */,
+				137AEFF521328A4C00C80BD1 /* Swift03_Types.swift */,
+				137AEFF721328A5900C80BD1 /* Swift04_Exressions.swift */,
+				137AEFF921328A6B00C80BD1 /* Swift05_Statements.swift */,
+				137AEFFB21328A7900C80BD1 /* Swift06_Declarations.swift */,
+				137AEFFD21328A8800C80BD1 /* Swift07_Attributes.swift */,
+				137AEFFF21328A9D00C80BD1 /* Swift08_Patterns.swift */,
+				137AF00121328AC200C80BD1 /* Swift09_GenericParametersAndArguments.swift */,
+				137AF00321328AD700C80BD1 /* Swift10_SummaryOfGrammar.swift */,
+			);
+			path = Swift3_LanguageReference;
+			sourceTree = "<group>";
+		};
+		137AF00721328B2400C80BD1 /* Siwft2_LanguageGuid */ = {
+			isa = PBXGroup;
+			children = (
+				13C1A9661F69880A00137A0A /* Swift01_Basics.swift */,
+				1309FCD6212EBE25008E69B9 /* Swift02_BasicOperators.swift */,
+				137AEFBF2132874800C80BD1 /* Siwft03_StringsAndCharacters.swift */,
+				137AEFC22132878E00C80BD1 /* Swift04_CollectionTypes.swift */,
+				137AEFC4213287A000C80BD1 /* Swift05_ControlFlow.swift */,
+				137AEFC6213287B500C80BD1 /* Swift06_Functions.swift */,
+				137AEFC8213287C400C80BD1 /* Swift07_Closures.swift */,
+				137AEFCA213287D900C80BD1 /* Swift08_Enumerations.swift */,
+				137AEFCC213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift */,
+				137AEFCE2132880C00C80BD1 /* Swift10_Properties.swift */,
+				137AEFD02132881D00C80BD1 /* Swift11_Methods.swift */,
+				137AEFD22132882F00C80BD1 /* Swift12_Subscripts.swift */,
+				137AEFD42132884D00C80BD1 /* Swift13_Inheritance.swift */,
+				137AEFD62132887300C80BD1 /* Swift14_Initalization.swift */,
+				137AEFD82132888400C80BD1 /* Swift15_Deinitialization.swift */,
+				137AEFDA2132889B00C80BD1 /* Swift16_OptionalChaining.swift */,
+				137AEFDC213288EC00C80BD1 /* Swift17_ErrorHandling.swift */,
+				137AEFDE213288FF00C80BD1 /* Swift18_TypeCasting.swift */,
+				137AEFE02132890E00C80BD1 /* Swift19_NestedTypes.swift */,
+				137AEFE22132892600C80BD1 /* Swift20_Extensions.swift */,
+				137AEFE42132893700C80BD1 /* Swift21_Protocols.swift */,
+				137AEFE62132896B00C80BD1 /* Swift22_Generics.swift */,
+				137AEFE82132898100C80BD1 /* Swift23_AutomaticReferenceCounting.swift */,
+				137AEFEA2132899400C80BD1 /* Swift24_MemorySafety.swift */,
+				137AEFEC213289A600C80BD1 /* Swift25_AccessControl.swift */,
+				137AEFEE213289BD00C80BD1 /* Swift26_AdvancedOperators.swift */,
+			);
+			path = Siwft2_LanguageGuid;
+			sourceTree = "<group>";
+		};
+		137AF00821328B5B00C80BD1 /* Swift1_Tour */ = {
+			isa = PBXGroup;
+			children = (
+				134115D11EF38DF00004295E /* Swift001_SimpleValues.swift */,
+				13DD35111F18640400A8F558 /* Swift002_FunctionAndClosures.swift */,
+				13DD35131F18D39100A8F558 /* Swift003_ObjectsAndClasses.swift */,
+				132C90C71F2090D000D61577 /* Swift004_EunmsAndStructures.swift */,
+				132C90C91F209C0500D61577 /* Swift005_ProtocolsAndExtensions.swift */,
+				132C90CB1F20A3D500D61577 /* Swift006_ErrorHanding.swift */,
+				132C90CD1F20AB9100D61577 /* Swift007_Generics.swift */,
+			);
+			name = Swift1_Tour;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,15 +275,49 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				137AF00421328AD700C80BD1 /* Swift10_SummaryOfGrammar.swift in Sources */,
+				137AEFFC21328A7900C80BD1 /* Swift06_Declarations.swift in Sources */,
+				137AEFD52132884D00C80BD1 /* Swift13_Inheritance.swift in Sources */,
+				137AEFC9213287C400C80BD1 /* Swift07_Closures.swift in Sources */,
+				137AEFD72132887300C80BD1 /* Swift14_Initalization.swift in Sources */,
+				137AEFED213289A600C80BD1 /* Swift25_AccessControl.swift in Sources */,
 				13C1A9671F69880B00137A0A /* Swift01_Basics.swift in Sources */,
+				137AEFE52132893700C80BD1 /* Swift21_Protocols.swift in Sources */,
+				137AEFF821328A5900C80BD1 /* Swift04_Exressions.swift in Sources */,
+				137AEFF421328A3A00C80BD1 /* Swift02_LexicalStructure.swift in Sources */,
+				137AF00221328AC200C80BD1 /* Swift09_GenericParametersAndArguments.swift in Sources */,
+				137AEFE72132896B00C80BD1 /* Swift22_Generics.swift in Sources */,
 				134115CB1EF388E80004295E /* main.swift in Sources */,
+				137AEFE32132892600C80BD1 /* Swift20_Extensions.swift in Sources */,
+				137AEFEF213289BD00C80BD1 /* Swift26_AdvancedOperators.swift in Sources */,
+				137AEFCB213287D900C80BD1 /* Swift08_Enumerations.swift in Sources */,
 				132C90C81F2090D000D61577 /* Swift004_EunmsAndStructures.swift in Sources */,
 				134115D21EF38DF00004295E /* Swift001_SimpleValues.swift in Sources */,
+				137AEFFA21328A6B00C80BD1 /* Swift05_Statements.swift in Sources */,
+				137AEFE12132890E00C80BD1 /* Swift19_NestedTypes.swift in Sources */,
+				137AEFEB2132899400C80BD1 /* Swift24_MemorySafety.swift in Sources */,
 				132C90CC1F20A3D500D61577 /* Swift006_ErrorHanding.swift in Sources */,
+				137AEFE92132898100C80BD1 /* Swift23_AutomaticReferenceCounting.swift in Sources */,
+				137AEFD92132888400C80BD1 /* Swift15_Deinitialization.swift in Sources */,
 				1309FCD7212EBE25008E69B9 /* Swift02_BasicOperators.swift in Sources */,
+				137AEFDB2132889B00C80BD1 /* Swift16_OptionalChaining.swift in Sources */,
+				137AEFF621328A4C00C80BD1 /* Swift03_Types.swift in Sources */,
 				13DD35141F18D39100A8F558 /* Swift003_ObjectsAndClasses.swift in Sources */,
+				137AEFF221328A2800C80BD1 /* Swift01_About.swift in Sources */,
+				137AEFCF2132880C00C80BD1 /* Swift10_Properties.swift in Sources */,
+				137AEFD12132881D00C80BD1 /* Swift11_Methods.swift in Sources */,
+				137AEFDD213288EC00C80BD1 /* Swift17_ErrorHandling.swift in Sources */,
+				137AEFDF213288FF00C80BD1 /* Swift18_TypeCasting.swift in Sources */,
 				13DD35121F18640400A8F558 /* Swift002_FunctionAndClosures.swift in Sources */,
+				137AEFD32132882F00C80BD1 /* Swift12_Subscripts.swift in Sources */,
 				132C90CE1F20AB9100D61577 /* Swift007_Generics.swift in Sources */,
+				137AEFC7213287B500C80BD1 /* Swift06_Functions.swift in Sources */,
+				137AEFCD213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift in Sources */,
+				137AF00021328A9D00C80BD1 /* Swift08_Patterns.swift in Sources */,
+				137AEFC32132878E00C80BD1 /* Swift04_CollectionTypes.swift in Sources */,
+				137AEFFE21328A8800C80BD1 /* Swift07_Attributes.swift in Sources */,
+				137AEFC02132874800C80BD1 /* Siwft03_StringsAndCharacters.swift in Sources */,
+				137AEFC5213287A000C80BD1 /* Swift05_ControlFlow.swift in Sources */,
 				132C90CA1F209C0500D61577 /* Swift005_ProtocolsAndExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
