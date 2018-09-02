@@ -20,7 +20,7 @@
 		137AEFC7213287B500C80BD1 /* Swift06_Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFC6213287B500C80BD1 /* Swift06_Functions.swift */; };
 		137AEFC9213287C400C80BD1 /* Swift07_Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFC8213287C400C80BD1 /* Swift07_Closures.swift */; };
 		137AEFCB213287D900C80BD1 /* Swift08_Enumerations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFCA213287D900C80BD1 /* Swift08_Enumerations.swift */; };
-		137AEFCD213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFCC213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift */; };
+		137AEFCD213287FA00C80BD1 /* Swift09_ClassesAndStrucures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFCC213287FA00C80BD1 /* Swift09_ClassesAndStrucures.swift */; };
 		137AEFCF2132880C00C80BD1 /* Swift10_Properties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFCE2132880C00C80BD1 /* Swift10_Properties.swift */; };
 		137AEFD12132881D00C80BD1 /* Swift11_Methods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFD02132881D00C80BD1 /* Swift11_Methods.swift */; };
 		137AEFD32132882F00C80BD1 /* Swift12_Subscripts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137AEFD22132882F00C80BD1 /* Swift12_Subscripts.swift */; };
@@ -80,7 +80,7 @@
 		137AEFC6213287B500C80BD1 /* Swift06_Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift06_Functions.swift; sourceTree = "<group>"; };
 		137AEFC8213287C400C80BD1 /* Swift07_Closures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift07_Closures.swift; sourceTree = "<group>"; };
 		137AEFCA213287D900C80BD1 /* Swift08_Enumerations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift08_Enumerations.swift; sourceTree = "<group>"; };
-		137AEFCC213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift09_StrucuresAndClasses.swift; sourceTree = "<group>"; };
+		137AEFCC213287FA00C80BD1 /* Swift09_ClassesAndStrucures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift09_ClassesAndStrucures.swift; sourceTree = "<group>"; };
 		137AEFCE2132880C00C80BD1 /* Swift10_Properties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift10_Properties.swift; sourceTree = "<group>"; };
 		137AEFD02132881D00C80BD1 /* Swift11_Methods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift11_Methods.swift; sourceTree = "<group>"; };
 		137AEFD22132882F00C80BD1 /* Swift12_Subscripts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift12_Subscripts.swift; sourceTree = "<group>"; };
@@ -180,7 +180,7 @@
 				137AEFC6213287B500C80BD1 /* Swift06_Functions.swift */,
 				137AEFC8213287C400C80BD1 /* Swift07_Closures.swift */,
 				137AEFCA213287D900C80BD1 /* Swift08_Enumerations.swift */,
-				137AEFCC213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift */,
+				137AEFCC213287FA00C80BD1 /* Swift09_ClassesAndStrucures.swift */,
 				137AEFCE2132880C00C80BD1 /* Swift10_Properties.swift */,
 				137AEFD02132881D00C80BD1 /* Swift11_Methods.swift */,
 				137AEFD22132882F00C80BD1 /* Swift12_Subscripts.swift */,
@@ -312,7 +312,7 @@
 				137AEFD32132882F00C80BD1 /* Swift12_Subscripts.swift in Sources */,
 				132C90CE1F20AB9100D61577 /* Swift007_Generics.swift in Sources */,
 				137AEFC7213287B500C80BD1 /* Swift06_Functions.swift in Sources */,
-				137AEFCD213287FA00C80BD1 /* Swift09_StrucuresAndClasses.swift in Sources */,
+				137AEFCD213287FA00C80BD1 /* Swift09_ClassesAndStrucures.swift in Sources */,
 				137AF00021328A9D00C80BD1 /* Swift08_Patterns.swift in Sources */,
 				137AEFC32132878E00C80BD1 /* Swift04_CollectionTypes.swift in Sources */,
 				137AEFFE21328A8800C80BD1 /* Swift07_Attributes.swift in Sources */,

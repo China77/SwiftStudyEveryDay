@@ -1,5 +1,5 @@
 //
-//  Swift09_StrucuresAndClasses.swift
+//  Swift09_ClassesAndStrucures.swift
 //  SwiftStudyEveryDay
 //
 //  Created by YUCHUAN on 2018/8/26.
